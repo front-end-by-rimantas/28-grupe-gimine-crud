@@ -32,7 +32,7 @@ bajorai.mire(1);
 bajorai.giminesMedis();
 // 1. Augustas gime 2000 metais ir yra vedes.
 
-bajorai.skirybos(0);
+bajorai.skyrybos(0);
 
 bajorai.giminesMedis();
 // 1. Augustas gime 2000 metais ir nera vedes.
